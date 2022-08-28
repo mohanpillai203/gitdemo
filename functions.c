@@ -1,3 +1,4 @@
+
 Psuedo code
 {
 Function1()
@@ -8,4 +9,6 @@ Function3333333333()
 {
   //code
 }
-
+Initial psuedo code
+Function2
+333
