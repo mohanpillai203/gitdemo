@@ -1,4 +1,3 @@
-
 Psuedo code
 {
 Function1()
