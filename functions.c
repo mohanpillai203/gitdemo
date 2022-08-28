@@ -1,3 +1,11 @@
-Initial psuedo code
-Function1
-Function2
+Psuedo code
+{
+Function1()
+{
+  //code
+}
+Function2()
+{
+  //code
+}
+
